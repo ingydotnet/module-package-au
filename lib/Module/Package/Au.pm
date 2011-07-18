@@ -7,6 +7,8 @@ use Module::Package 0.24 ();
 use Module::Install::GithubMeta 0.10 ();
 use Module::Install::ReadmeFromPod 0.12 ();
 use Module::Install::ReadmeMarkdownFromPod 0.03 ();
+use Module::Install::Repository 0.06 ();
+use Module::Install::AuthorTests 0.002 ();
 use Pod::Markdown 1.110730 ();
 
 package Module::Package::Au::dry;
